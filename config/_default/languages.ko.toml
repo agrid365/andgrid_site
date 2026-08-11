@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ko"
 languageName = "Korean"
 weight = 1
-title = "andgird"
+title = "andgrid"
 
 [params]
   displayName = "KO"
@@ -11,7 +11,7 @@ title = "andgird"
   dateFormat = "2006년 January 2일"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "영화, OTT, 드라마, 엔터테인먼트 정보를 직접 확인한 기준으로 정리하는 블로그"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
