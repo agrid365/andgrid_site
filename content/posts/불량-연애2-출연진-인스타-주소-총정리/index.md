@@ -50,46 +50,53 @@ SNS 계정은 방송 이후 아이디가 바뀌거나 비공개로 전환될 수
 | 히카루 | ヒカル / Hikaru | [@______hhh912](https://www.instagram.com/______hhh912) | 19K |
 | 하짱 | はーちゃん / Hachan | [@hazuki_19980726](https://www.instagram.com/hazuki_19980726) | 3,795 |
 
-※ 팔로워 수는 2026년 8월 13일 Instagram 공개 프로필 메타 기준입니다. 출연진의 나이, 직업, 방송상 특징은 [불량 연애2 공개일·출연진 나이 직업 총정리](/posts/불량-연애2-공개일-출연진-총정리/)에서 따로 정리했습니다.
+※ 팔로워 수는 2026년 8월 13일 Instagram 공개 프로필 메타 기준입니다.
+
+<a href="/posts/불량-연애2-공개일-출연진-총정리/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
+  <span>
+    <strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">불량 연애2 공개일·출연진 나이 직업 총정리｜VOL1·VOL2·VOL3 일정</strong>
+  </span>
+  <img src="/posts/불량-연애2-공개일-출연진-총정리/featured.jpg" alt="불량 연애2 출연진 나이 직업 총정리" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+</a>
 
 ## 불량 연애2 남성 출연진 인스타 팔로워순 랭킹
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:16px 0;">
-  <a href="https://www.instagram.com/kazumasks" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/kazumasks" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/시오다카즈마.jpg" alt="불량 연애2 카즈군" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">1위 카즈군</strong>
-    <span style="display:block;">@kazumasks</span>
-    <span style="display:block;">팔로워 68K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">1위 카즈군</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@kazumasks</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 68K</span>
   </a>
-  <a href="https://www.instagram.com/taisei_15_31" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/taisei_15_31" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/타이세이.jpg" alt="불량 연애2 타이짱" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">2위 타이짱</strong>
-    <span style="display:block;">@taisei_15_31</span>
-    <span style="display:block;">팔로워 49K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">2위 타이짱</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@taisei_15_31</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 49K</span>
   </a>
-  <a href="https://www.instagram.com/zzz.odmsy" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/zzz.odmsy" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/오다%20유야.jpg" alt="불량 연애2 마군" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">3위 마군</strong>
-    <span style="display:block;">@zzz.odmsy</span>
-    <span style="display:block;">팔로워 34K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">3위 마군</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@zzz.odmsy</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 34K</span>
   </a>
-  <a href="https://www.instagram.com/ari999__" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/ari999__" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/콘도%20아리.jpg" alt="불량 연애2 아리" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">4위 아리</strong>
-    <span style="display:block;">@ari999__</span>
-    <span style="display:block;">팔로워 18K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">4위 아리</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@ari999__</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 18K</span>
   </a>
-  <a href="https://www.instagram.com/y_1leoyade" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/y_1leoyade" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/야마모토%20레오.jpg" alt="불량 연애2 LEO" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">5위 LEO</strong>
-    <span style="display:block;">@y_1leoyade</span>
-    <span style="display:block;">팔로워 7,248</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">5위 LEO</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@y_1leoyade</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 7,248</span>
   </a>
-  <a href="https://www.instagram.com/p.19.g.98" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/p.19.g.98" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/미즈키.jpg" alt="불량 연애2 보" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">6위 보</strong>
-    <span style="display:block;">@p.19.g.98</span>
-    <span style="display:block;">팔로워 3,298</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">6위 보</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@p.19.g.98</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 3,298</span>
   </a>
 </div>
 
@@ -98,35 +105,35 @@ SNS 계정은 방송 이후 아이디가 바뀌거나 비공개로 전환될 수
 ## 불량 연애2 여성 출연진 인스타 팔로워순 랭킹
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:16px 0;">
-  <a href="https://www.instagram.com/_assunsun_" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/_assunsun_" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/오구리%20아스카.jpg" alt="불량 연애2 앗슨" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">1위 앗슨</strong>
-    <span style="display:block;">@_assunsun_</span>
-    <span style="display:block;">팔로워 429K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">1위 앗슨</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@_assunsun_</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 429K</span>
   </a>
-  <a href="https://www.instagram.com/u_r30" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/u_r30" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/타나카%20루루.jpg" alt="불량 연애2 루루" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">2위 루루</strong>
-    <span style="display:block;">@u_r30</span>
-    <span style="display:block;">팔로워 64K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">2위 루루</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@u_r30</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 64K</span>
   </a>
-  <a href="https://www.instagram.com/______hhh912" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/______hhh912" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/히카루.jpg" alt="불량 연애2 히카루" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">3위 히카루</strong>
-    <span style="display:block;">@______hhh912</span>
-    <span style="display:block;">팔로워 19K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">3위 히카루</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@______hhh912</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 19K</span>
   </a>
-  <a href="https://www.instagram.com/maririn__dayo__" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/maririn__dayo__" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/타카오카%20마리나.jpg" alt="불량 연애2 마리린" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">4위 마리린</strong>
-    <span style="display:block;">@maririn__dayo__</span>
-    <span style="display:block;">팔로워 16K</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">4위 마리린</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@maririn__dayo__</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 16K</span>
   </a>
-  <a href="https://www.instagram.com/hazuki_19980726" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #e5e7eb;border-radius:8px;padding:12px;text-decoration:none;">
+  <a href="https://www.instagram.com/hazuki_19980726" target="_blank" rel="noopener noreferrer" style="display:block;border:1px solid #374151;border-radius:8px;padding:12px;text-decoration:none;background:#111827;color:#f9fafb;">
     <img src="/posts/불량-연애2-공개일-출연진-총정리/아베%20하즈키.jpg" alt="불량 연애2 하짱" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:6px;">
-    <strong style="display:block;margin-top:8px;">5위 하짱</strong>
-    <span style="display:block;">@hazuki_19980726</span>
-    <span style="display:block;">팔로워 3,795</span>
+    <strong style="display:block;margin-top:8px;color:#f9fafb;">5위 하짱</strong>
+    <span style="display:block;color:#60a5fa;font-weight:700;">@hazuki_19980726</span>
+    <span style="display:block;color:#cbd5e1;">팔로워 3,795</span>
   </a>
 </div>
 
@@ -134,9 +141,23 @@ SNS 계정은 방송 이후 아이디가 바뀌거나 비공개로 전환될 수
 
 ## 함께 보면 좋은 글
 
-- [불량 연애2 공개일·출연진 나이 직업 총정리](/posts/불량-연애2-공개일-출연진-총정리/)
-- [불량 연애2 EP4 러브라인 정리](/posts/불량-연애2-ep4-러브라인-호감도-관계도/)
-- [불량 연애 시즌1 출연진·결말 총정리](/posts/불량-연애-시즌1-출연진-결말-총정리/)
+<div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;padding:16px;">
+  <strong style="display:block;color:#f9fafb;margin-bottom:12px;">관련해서 바로 보기</strong>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:0;">
+    <a href="/posts/불량-연애2-공개일-출연진-총정리/" style="display:block;color:#f9fafb;text-decoration:none;">
+      <img src="/posts/불량-연애2-공개일-출연진-총정리/featured.jpg" alt="불량 연애2 출연진 총정리" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+      <strong style="display:block;color:#f9fafb;margin-top:8px;line-height:1.35;">출연진 총정리</strong>
+    </a>
+    <a href="/posts/불량-연애2-ep4-러브라인-호감도-관계도/" style="display:block;color:#f9fafb;text-decoration:none;">
+      <img src="/posts/불량-연애2-ep4-러브라인-호감도-관계도/featured.webp" alt="불량 연애2 EP4 러브라인 정리" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+      <strong style="display:block;color:#f9fafb;margin-top:8px;line-height:1.35;">EP4 러브라인 정리</strong>
+    </a>
+    <a href="/posts/불량-연애-시즌1-출연진-결말-총정리/" style="display:block;color:#f9fafb;text-decoration:none;">
+      <img src="/posts/불량-연애-시즌1-출연진-결말-총정리/featured.jpg" alt="불량 연애 시즌1 출연진 결말 총정리" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+      <strong style="display:block;color:#f9fafb;margin-top:8px;line-height:1.35;">시즌1 결말 총정리</strong>
+    </a>
+  </div>
+</div>
 
 ## FAQ
 
@@ -162,4 +183,7 @@ SNS 계정은 방송 이후 아이디가 바뀌거나 비공개로 전환될 수
 
 ## 참고 자료
 
-- [Netflix Japan 공식 Instagram](https://www.instagram.com/netflixjp)
+<p style="border-left:4px solid #64748b;padding:10px 0 10px 14px;color:#cbd5e1;background:rgba(17,24,39,0.55);">
+  참고:
+  <a href="https://www.instagram.com/netflixjp" target="_blank" rel="noopener noreferrer" style="color:#60a5fa;font-weight:700;text-decoration:underline;">Netflix Japan 공식 Instagram</a>
+</p>
